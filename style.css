@@ -36,3 +36,14 @@ form label, form input {
     margin-top: 10px;
     font-weight: bold;
 }
+
+.label-pass {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.input-pass {
+    font-size: 16px;
+    border-radius: 2px;
+    padding: 10px;
+}
